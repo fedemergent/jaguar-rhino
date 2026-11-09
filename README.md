@@ -3,6 +3,9 @@
 Plugin gratuito para **Rhino 8 (Windows 10/11)**: maniquí de postura basado en SAE J826, Dreyfuss y ANSUR II para diseñar la ergonomía y el packaging de autos y motos, sin Grasshopper.
 Free plugin for **Rhino 8 (Windows 10/11)**: a posture mannequin based on SAE J826, Dreyfuss and ANSUR II to design car and motorcycle ergonomics and packaging, without Grasshopper.
 
+## Tutorial en video / Video tutorial
+[▶ Ver el tutorial en YouTube · Watch the tutorial on YouTube](https://youtu.be/mKwW6iCw7r8)
+
 ## Qué hace / What it does
 - Maniquí P1–P99, hombre y mujer, 18 regiones ajustadas por estatura · P1–P99 mannequin, male/female, 18 regions scaled by height.
 - 5 posturas de moto y 3 de auto, con casco; manos agarrando manillar o volante · 5 bike and 3 car postures, helmeted; hands grip the bar or wheel.
