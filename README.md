@@ -4,7 +4,7 @@ Plugin gratuito para **Rhino 8 (Windows 10/11)**: maniquí de postura basado en 
 Free plugin for **Rhino 8 (Windows 10/11)**: a posture mannequin based on SAE J826, Dreyfuss and ANSUR II to design car and motorcycle ergonomics and packaging, without Grasshopper.
 
 ## Tutorial en video / Video tutorial
-[▶ Ver el tutorial en YouTube · Watch the tutorial on YouTube](https://youtu.be/mKwW6iCw7r8)
+[▶ Tutorial en español (YouTube)](https://youtu.be/mKwW6iCw7r8) · [▶ Tutorial in English (YouTube)](https://youtu.be/F03E_xMneso)
 
 ## Manual PDF
 [📄 Manual de usuario (PDF, 3 páginas, español) · User manual (PDF, 3 pages, Spanish)](JAGUAR-Manual.pdf)
