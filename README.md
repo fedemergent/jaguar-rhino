@@ -7,7 +7,7 @@ Free plugin for **Rhino 8 (Windows 10/11)**: a posture mannequin based on SAE J8
 [▶ Tutorial en español (YouTube)](https://youtu.be/mKwW6iCw7r8) · [▶ Tutorial in English (YouTube)](https://youtu.be/F03E_xMneso)
 
 ## Manual PDF
-[📄 Manual de usuario (PDF, 3 páginas, español) · User manual (PDF, 3 pages, Spanish)](JAGUAR-Manual.pdf)
+[📄 Manual en español (PDF)](JAGUAR-Manual.pdf) · [📄 User manual in English (PDF)](JAGUAR-Manual-EN.pdf)
 
 ## Qué hace / What it does
 - Maniquí P1–P99, hombre y mujer, 18 regiones ajustadas por estatura · P1–P99 mannequin, male/female, 18 regions scaled by height.
